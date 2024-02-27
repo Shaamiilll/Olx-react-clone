@@ -110,10 +110,12 @@
     margin: 0;
     background-color: black;
     height: 2px;
+    cursor: pointer;
   }
   
   .loginPage a{
     text-decoration: none;
+    cursor: pointer;
   }
   
   .sellMenu {
